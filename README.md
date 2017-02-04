@@ -1,2 +1,2 @@
 # Jerry Peng Personal Website
-https://www.jerrypeng0112.github.io
+https://jerrypeng0112.github.io
