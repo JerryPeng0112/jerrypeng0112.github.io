@@ -42,7 +42,7 @@ div#page {
     width: 100%;
     height: 200vh;
     background: teal;
-    transition: margin-left 400ms ease-in-out 100ms;
+    transition: margin-left 400ms ease-out 100ms;
 }
 
 div#page.shift-right {

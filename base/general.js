@@ -59,4 +59,8 @@ $(function() {
         pageContent.css('transition-delay', '0ms');
         pageContent.removeClass('shift-right');
     });
+
+    $(window).on('scroll', function() {
+        console.log($(window).scrollTop());
+    });
 });
